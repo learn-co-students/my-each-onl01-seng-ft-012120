@@ -1,3 +1,5 @@
-def my_each # put argument(s) here
-  # code here
+def my_each (november)
+november = ([beans, rice, meat, stuffing]) do |i|
+  while array -= 4 puts |i|
 end
+
