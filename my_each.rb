@@ -1,3 +1,3 @@
-def my_each # put argument(s) here
-  # code here
+def my_each do
+  file = File.read('./my_each.rb')
 end
